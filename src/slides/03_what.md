@@ -54,8 +54,8 @@ class: small-logo
 and we're going to start with a static site generator called eleventy
 
 ---
-
-# TODO: image of what eleventy does
+template: full-screen
+background-image: url(/images/eleventy-diagram.jpg)
 
 ???
 
@@ -76,8 +76,9 @@ And as a bonus, static HTML is super fast
 It's like a return to the 90s internet, but the tooling is so much better now
 
 ---
+template: full-screen
+background-image: url(/images/happy-dev.jpg)
 
-# TODO: image of happy developer
 
 ???
 
@@ -102,11 +103,12 @@ so they can contribute markdown to our static website
 without realizing that they're contributing markdown.
 
 ---
+class: bg-contain, no-footer
+background-image: url(/images/netlify-cms-diagram.jpg)
 
-# TODO: drawing of what netlify cms does
 ---
-
-# TODO: image of happy developer + happy author
+template: full-screen
+background-image: url(/images/happy-dev-author.jpg)
 
 ???
 
@@ -128,9 +130,11 @@ Really focused on static websites augmented with JavaScript interactivity
 
 And honestly, if you get one takeaway, it's going to be Netlify.
 
----
+Netlify is FAST.
 
-# TODO: image of happy user + happy dev + happy author
+---
+class: bg-contain, no-footer
+background-image: url(/images/happy-dev-author-user.jpg)
 
 ???
 
